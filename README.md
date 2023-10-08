@@ -1,5 +1,5 @@
-#Hi, I’m @AstroAFLabs#
-- 👀 ##I’m interested in##
+# Hi, I’m @AstroAFLabs #
+- 👀 ## I’m interested in ##
 - digital art, AI art, NFTs, science, knowledge
 - 🌱 I’m currently learning ...IT, comprising Python, HTML/CSS, SQL and more.
 - - 💞️ I’m looking to collaborate with other students also studying Python
